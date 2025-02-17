@@ -8,3 +8,6 @@ Photo_Watermark.jpg
 __pycache__/
 *.pyc
 venv/
+
+*Send*
+*.log
