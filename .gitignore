@@ -11,3 +11,4 @@ venv/
 
 *Send*
 *.log
+*.sh
