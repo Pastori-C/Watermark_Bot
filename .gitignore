@@ -1,0 +1,10 @@
+.env
+#Ignora i loghi
+Original_Watermark.png
+Watermark.png
+Photo_Watermark.jpg
+
+# Ignora anche eventuali file temporanei o dell'ambiente virtuale
+__pycache__/
+*.pyc
+venv/
